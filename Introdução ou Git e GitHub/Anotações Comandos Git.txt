@@ -16,3 +16,10 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/DudaSheep/dio-desafio-instagram.git
 git push -u origin main
+
+
+...clone repository
+.criar a pasta onde vai clonar o repositorio
+.ir ate ela no gitbash
+
+git clone https://github.com/DudaSheep/dio-desafio-instagram.git    URL from github repository
